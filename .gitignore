@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+*.sql
+__pycache__
+.env
+env
+.vscode
+.idea
+.swp
+.~lock*#
+
+
