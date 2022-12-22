@@ -1,1 +1,1 @@
-Otus Flask
+Otus
